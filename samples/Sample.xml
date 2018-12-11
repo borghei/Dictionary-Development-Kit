@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
+	Test
 	This is a sample dictionary source file.
 	It can be built using Dictionary Development Kit.
 -->
@@ -23,7 +24,7 @@
 	<div>
 		<ol>
 			<li>
-				Form by putting parts together or combining substances; construct; create; produce 
+				Form by putting parts together or combining substances; construct; create; produce
 				<span d:priority="2"> : <i>Mother made her a beautiful dress</i>
 				</span>
 				.
